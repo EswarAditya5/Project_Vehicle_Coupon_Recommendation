@@ -145,7 +145,7 @@ with col8:
     direction_opp=st.selectbox('direction_opp',direction_opp_options,format_func=lambda x:direction_opp_display[x])
 
 
-model=pickle.load(open('gbmmodel.pkl','rb'))
+model=pickle.load(open('gbmmodel.pkl'))
 my_dict={'destination':destination,'passanger':passanger,'weather':weather,'temperature':temperature,'time':time,
          'coupon':coupon,'expiration':expiration,'gender':gender,'age':age,'maritalStatus':maritalStatus,
          'has_Children':has_Children,'education':education,'occupation':occupation,'income':income,'Bar':Bar,
