@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import scikit-learn
+import sklearn
 import pickle
 
 col1,col2,col3,col4,col5,col6,col7,col8=st.columns(8)
