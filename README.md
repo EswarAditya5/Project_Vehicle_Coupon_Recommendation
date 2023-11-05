@@ -4,7 +4,7 @@ Welcome to the Vehicle Coupon Recommendation project repository! This project le
 
 Coupon systems have been widely used to market products, and services and engage customers to use their products and services often. Coupons create a win-win situation for both companies and customers so, by offering a correct coupon to users, which can lead users to become frequent customers and it is enhancing a brand’s impact on its customers.
 
-How to know which coupon to provide a customer can be a rather complex task, since each customer profile responds differently to each other, and frequently offering them bad coupons or deals might drag them away from your business. To overcome this problem, machine learning techniques can be used to build a better coupon recommendations system.
+How to know which coupon to provide a customer can be a rather complex task, since each customer profile responds differently to the other, and frequently offering them bad coupons or deals might drag them away from your business. To overcome this problem, machine learning techniques can be used to build a better coupon recommendation system.
 
 ### Technology used:
 <div align ='left'>
@@ -23,7 +23,7 @@ Are you looking for the most cost-effective way to maintain and service your veh
 
 - **Machine Learning Model:** The heart of our system is a sophisticated machine learning model. It takes into account vehicle data, user preferences, and the findings from our EDA to deliver highly personalized coupon recommendations. Say goodbye to generic coupons that don't suit your needs.
 
-- **Streamlit Deployment:** We've deployed the model using Streamlit, providing an intuitive web interface. In real-time, the system generates personalized coupon recommendations. It's as easy as inputting your vehicle details and preferences.
+- **Streamlit Deployment:** We've deployed the model using Streamlit, providing an intuitive web interface. In real time, the system generates personalized coupon recommendations. It's as easy as inputting your vehicle details and preferences.
 
 ## Exploratory Data Analysis (EDA)
 
@@ -37,9 +37,9 @@ We delved deep into the data to understand vehicle maintenance habits and user p
 
 ## Machine Learning Model
 
-Our recommendation engine is powered by a robust machine learning model. Here's what makes it special:
+Our recommendation engine is powered by a robust machine-learning model. Here's what makes it special:
 
-- **Personalization:** The model tailors coupon recommendations to individual users based on their vehicle make, model, past maintenance, and preferences. No two users receive the same recommendations.
+- **Personalization:** The model tailors coupon recommendations to individual users based on their vehicle make model, past maintenance, and preferences. No two users receive the same recommendations.
 
 - **Real-time Updates:** The model is designed for real-time operation, ensuring that recommendations stay relevant and up-to-date.
 
@@ -60,4 +60,4 @@ Contributions to this project are welcome. If you would like to contribute, plea
 This project is licensed under the GPU License.
 
 ### Contact
-If you have any questions or suggestions regarding this project, please feel free to contact me at 132anaskhan@gmail.com.
+If you have any questions or suggestions regarding this project, please feel free to contact me at eswaraditya63@gmail.com.
